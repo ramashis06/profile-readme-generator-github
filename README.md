@@ -66,9 +66,7 @@ Hello! I'm an entry-level QA enthusiast, eager to learn and grow in the field of
 | ------- | ----------- | ----- |
 | Name   |   Abc          |   etc.com    |
 
-### test
 
-<img src="www.com" alt="test" width="500"/>
 
 ## 🎓 Education
 
