@@ -103,9 +103,9 @@ During my internship at Skill Jobs, I gained experience in:
 
 <div align="left">
 
-*   📫 How to reach me: **ramashis06@gmail.com**
-*   👨‍💻 All of my projects are available at [gg.com](gg.com)
-*   📄 Know about my experiences [resume.com](resume.com)
+*   📫 How to reach me: **abc@gmail.com**
+*   👨‍💻 All of my projects are available at [Daraz](daraz.com)
+*   📄 Know about my experiences [Resume/CV](https://www.canva.com/design/DAG745azWE0/dkQZQaftlbGMp2sNVea9_A/edit?ui=eyJHIjp7IkQiOnsiRCI6eyJBPyI6IkUifX19fQ&referrer=resumes-landing-page)
 
 </div>
 
@@ -148,27 +148,26 @@ During my internship at Skill Jobs, I gained experience in:
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramashis06&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ramashis06&color=brightgreen&style=flat-square&label=Profile+Views)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ramashis06&theme=default&column=7&margin-w=15&margin-h=15)
+<div align="Left">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&" alt="ramashis06" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramashis06&layout=compact&theme=default&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ramashis06&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<!-- LeetCode Stats Card: LeetCode username required -->
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/https://www.twitter.com/ramashis06?style=social)]([https://twitter.com/https://www.twitter.com/ramashis06](https://x.com/RAMASHIS06))
-
-<!-- DEVTO_BLOG:START -->
-<!-- Repositories that create this section need to replace the URL with their own feed URL. -->
-<!-- It uses a GitHub Action to fetch and display recent posts. -->
-<!-- View https://github.com/gautamkrishnar/blog-post-workflow for setup. -->
-<!-- DEVTO_BLOG:END -->
-**Requires GitHub Action setup.** See [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow).
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 </div>
+
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 ---
 
@@ -178,6 +177,5 @@ During my internship at Skill Jobs, I gained experience in:
 
 **Thank you for visiting my profile! 😊**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ramashis06&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
