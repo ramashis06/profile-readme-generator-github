@@ -2,22 +2,17 @@
 
 # Hi 👋, I'm Name
 
-
-
-
-
 </div>
+
 
 <div align="center">
   <img src="https://github.com/ramashis06/Images/blob/d28c7be769748868d0b964230d11ea2666aa9a7b/Git%20banner.png?raw=true" alt="Profile Banner" width="100%" />
 </div>
 
+
 <div align="center">
 
-
-
 ### A passionate software quality assurance (SQA) engineer from Bangladesh 🇧🇩
-
 
 
 </div>
@@ -148,6 +143,8 @@ During my internship at Skill Jobs, I gained experience in:
 ![Visitor Count](https://komarev.com/ghpvc/?username=ramashis06&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=ramashis06&color=brightgreen&style=flat-square&label=Profile+Views)
 
+</div>
+
 <div align="Left">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramashis06&show_icons=true&locale=en&layout=compact" alt="ramashis06" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ramashis06&show_icons=true&locale=en" alt="ramashis06" /></p>
@@ -156,19 +153,13 @@ During my internship at Skill Jobs, I gained experience in:
 
 </div>
 
-
 <div align="left">
 
 ### 🔝 Top Contributed Repositories
-
+  
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ramashis06&limit=5&combine_all_yearly_contributions=true)
 
 </div>
-
-
-
-
-
 
 <!-- Snake Game Repo View -->
 
